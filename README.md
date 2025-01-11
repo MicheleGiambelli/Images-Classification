@@ -1,16 +1,16 @@
 # Images Classification 
 
-Image classification using a costumize CNN.
+Image classification using a costumize Convolutional Neural Network (CNN).
 
-![Image Classification Example]()
+![Image Classification Example](./images1.png)
 
 
 ## Overview
 
-This project was carried out at **Johannes Kepler University Linz** during my Erasmus program. It was developed as part of a course challenge and involved implementing a customized Convolutional Neural Network (CNN) using PyTorch to classify images into 20 distinct classes.
+This project was carried out at *Johannes Kepler University Linz* during my Erasmus program. It was developed as part of a course challenge and involved implementing a customized Convolutional Neural Network (CNN) using **PyTorch** to classify images into 20 distinct classes.
 
 The project includes:
-- Classification of images into 20 classes using a dataset of **12,484 images** collected by course participants.
+- Classification of images into 20 classes using a dataset of *12,484 images* collected by course participants.
 - Implementation of a custom CNN model (`MyCNN`) for training and evaluation.
 - Final testing on a hidden dataset (challenge server) using a provided evaluation function.
 

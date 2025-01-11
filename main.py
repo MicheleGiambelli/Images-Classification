@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Michele Giambelli
+Author: Michele Giambelli
 
 Main file of the Image Classification Project
 
